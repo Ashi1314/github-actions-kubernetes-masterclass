@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TrainWithShubham/AI-BankApp-DevOps.git
+    repoURL: https://github.com/Ashi1314/github-actions-kubernetes-masterclass.git
     targetRevision: main
     path: k8s
   destination:
